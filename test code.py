@@ -12,5 +12,3 @@ def isZigzag(numbers):
 
 
 ***
-https://www.linkedin.com/in/lester-s-fernandes-a641b51/
-https://www.facebook.com/lester.fernandes.146
